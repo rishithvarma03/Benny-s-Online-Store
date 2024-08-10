@@ -1,0 +1,91 @@
+.col-md-4{
+  border-radius: 10%;
+  padding: 10px;
+  position: fixed;
+  right: 600px;
+  bottom: 30px;
+}
+.iframe{
+  width: 300px;
+  margin-right: 5%;
+    margin-left: 10%;
+}
+.payment{
+  border-width: 2px;
+  border-color: black;
+  background-color: rgb(56, 184, 78);
+  position: fixed;
+  padding: 10px 40px 40px 40px ;
+  border-radius: 8px;
+  left: 60px; 
+  top: 40px;
+}
+.pa{
+  font-family: sans-serif;
+  font-size: xx-large;
+}
+.de{
+  font-size: large;
+  font-family: sans-serif;
+  margin-bottom: 0px;
+}
+.name,.phone,.mail,.address{
+  width: 200px;
+  height: 20px;
+}
+.body{
+  background: linear-gradient(80deg,#233739,#021a04);
+}
+.img6{
+  border-radius: 8px;
+  position: fixed;
+  right: 200px;
+}
+.par{
+ position: fixed;
+ right: 50px;
+ top: 200px;
+ font-size: x-large;
+ color: wheat;
+}
+.support{
+  display: inline-block;
+  position: fixed;
+  bottom: 30px;
+  left: 300px;
+}
+.sup{
+  display: inline-block;
+  position: fixed;
+  bottom: 30px;
+  left: 80px;
+}
+.head,.head1{
+  font-family: sans-serif;
+  font-size: x-large;
+  color: wheat;
+  
+}
+.head1{
+  margin-bottom: 23px;
+}
+.a{
+  margin-bottom: 50px;
+}
+.qr{
+  height: 300px;
+  width: 300px;
+  position: fixed;
+  right: 150px;
+}
+.par1{
+  position: fixed;
+  right: 700px;
+  font-size: xx-large;
+  top: 100px;
+}
+.gif{
+  position: fixed;
+  right:750px ;
+  top: 220px;
+}

@@ -1,0 +1,74 @@
+.login{
+  
+  background-image: url(21.jpg);
+  background-size: cover;
+}
+.img2{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}
+.title{
+  font-family: Cursive;
+  font-weight: bold;
+  color: rgb(140, 202, 181);
+  font-size: 70px;
+  margin-top: 30px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+.deatil{
+  background-color: rgb(206, 194, 194);
+  width: 350px;
+  height: 230px;
+   border-radius: 10px;
+  position: fixed;
+  top: 30%;
+  left: 33%;
+  
+  margin-left: 50px;
+  
+}
+#de.deatil:hover{
+  box-shadow: 8px 8px black;
+}
+.log{
+  font-family: sans-serif ;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 20px;
+  
+  
+}
+.name,.password{
+  border-radius: 3px;
+  border-color: none;
+  height: 25px;
+  width: 200px;
+  background-color: rgb(171, 168, 189);
+  border-width: 1px;
+  border-style: solid;
+  margin-bottom: 10px;
+  cursor: pointer;
+  margin-left: 20px;
+
+}
+.but{
+  position: relative;
+  left: 250px;
+  top: 5px;
+  background-color: yellowgreen;
+  color: wheat;
+  border: none;
+  padding: 10px 10px 10px 10px ;
+  border-radius: 8px;
+}
+.last{
+  margin-left: 20px;
+  font-family: sans-serif;
+}
+.img3{
+  position: fixed;
+  top: 250px;
+  left: 0px;
+}
